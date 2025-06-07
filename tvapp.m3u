@@ -22,13 +22,14 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/SonySab.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/NFDGd2TG/Phd.jpg",& Pictures HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/AndPicturesHd.m3u8
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeCinemaHd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cinema
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
+
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cinema
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
