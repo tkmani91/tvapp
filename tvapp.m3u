@@ -80,12 +80,44 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
+https://raw.githubusercontent.com/tkmani91/Channel/main/9Xm.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/tg82qLnZ/9XJalwa.jpg",9XJalwa
+https://raw.githubusercontent.com/tkmani91/Channel/main/9XJalwa.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tTT7c8cR/Mastiii.jpg",Mastii
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/rKPT2yY9/ShowBox.jpg",Show Box
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/Z4ydZ9T/E24.jpg",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/E24.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/b4umusic.jpg",B4U MUSIC
+https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMusic.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/Y0HRgY3t/Music-India.jpg",MUSIC INDIA
+https://raw.githubusercontent.com/tkmani91/Channel/main/MusicIndia.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/tJyCmKxQ/ZooM.jpg",ZOOM
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/R01YksFv/MTVHD.jpg",M TV HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/MtvHd.m3u8
 
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/MpCwbm4b/MTV-LIVE.jpg",MTV LIVE
+https://raw.githubusercontent.com/tkmani91/Channel/main/MtvLive.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/Z5hnmy1Q/zing.jpg",Zing
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
 
 
 
@@ -123,6 +155,29 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/zfhJ9cWc/CBeebies.jpg",CBeebies
 https://raw.githubusercontent.com/tkmani91/Channel/main/Cbeebies.m3u8
+
+
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/ryKPLNdt/ZeeNews.jpg",Zee News
+https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeNews.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/FHL8ZsXd/DDNews.jpg",DD News
+https://raw.githubusercontent.com/tkmani91/Channel/main/DDNews.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/7hGzfcgd/DDIndia-News.jpg",India News
+https://raw.githubusercontent.com/tkmani91/Channel/main/IndiaNews.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/pBSbx04V/image.jpg",Aajtak Hd live
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/AajTakNews.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/TBTBHxDX/High-News.jpg",High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",BBC News Asia
+https://i.imgur.com/XBkKRaZ.png
+#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
 
 
 
