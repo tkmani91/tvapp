@@ -124,6 +124,60 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 
 
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V0FYK1zH/ASTRO-Cricket.jpg",Astro Cricket HD
+https://i.imgur.com/XBkKRaZ.png
+#https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
+#https://rex-streaming.vercel.app/api/x/167583.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow 2 HD
+https://i.imgur.com/XBkKRaZ.png
+#https://rex-streaming.vercel.app/api/x/167582.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/1G4wSdm8/starsports2.jpg",Star Sports 2 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/nrDsHmxt/Star-Sports3.jpg",Star Sports 3 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports3Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/NgTrhJS2/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 Hindi
+https://i.imgur.com/XBkKRaZ.png
+#https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hindi.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/RF865RjR/Starsports2-Hindi.jpg",Star Sports 2 Hindi
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hindi.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",Star Sports 1 Select HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSport1SelectHd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fkQVkbWS/Starsportsselect2hd.jpg",Star Sports 2 Select HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSport2Select2Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/9Qj9QLzg/SONYSports-Ten1-HD.jpg",SONY SPORTS 1 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports1Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/6pLv2CvW/SONYSports-Ten2-HD.jpg",SONY SPORTS 2 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports2Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/rpVtSz1S/SONYSports-Ten3-HD.jpg",SONY SPORTS 3 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports3Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zfxHp574/SONYSports-Ten5-HD.jpg",SONY SPORTS 5 HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports5Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zf0zkrFT/Sky-Sports.jpg",Sky Sports Cricket HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/SkySportsCricketHd.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/pogo.jpg",POGO KIDS
 https://tv.bdixtv24.com/toffee/live.php?id=38060f0d4077&e=.m3u8
 
